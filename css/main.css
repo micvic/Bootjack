@@ -88,13 +88,25 @@ body{
 #content_3{
     padding:50px;
 }
-
-
-
+#content_4{
+    padding:50px;
+    text-align:center;
+    font-family:"Open Sans", sans-serif;
+    font-size: 20px;
+}
 
 li {
     border:none;
 }
 a{
     border:none;
+}
+
+/*Calljack Page*/
+#answer_callJack{
+    background:none;
+    color:white;
+    text-align:center;
+    font-family:"Open Sans", sans-serif;
+    font-size: 20px;
 }
