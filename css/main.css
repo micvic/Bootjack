@@ -118,3 +118,8 @@ a{
     border:2px solid black;
     border-top:none;
 }
+
+.radio{
+    margin-left:20px;
+    display:block;
+}
