@@ -8,7 +8,7 @@
     });
     
     $('#carousel-example-generic').carousel({
-        interval: 4000
+        interval: 6000
     });
 
     // handles the carousel thumbnails
