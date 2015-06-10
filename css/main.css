@@ -80,16 +80,16 @@ body{
     background-size:contain;
     background-position-y:50%;
     background: -moz-radial-gradient(circle, white 60%, #C0C0C0 120%); /* For Firefox 3.6 to 15 */
+    padding:40px;
 }
 
 /*----------------------------------------------------------------------*/
 /*Special Content Properties*/
 
 #content_3{
-    padding:50px;
+    
 }
 #content_4{
-    padding:50px;
     text-align:center;
     font-family:"Open Sans", sans-serif;
     font-size: 20px;
@@ -109,4 +109,12 @@ a{
     text-align:center;
     font-family:"Open Sans", sans-serif;
     font-size: 20px;
+}
+
+
+
+.selected img{
+    border-radius:5px;
+    border:2px solid black;
+    border-top:none;
 }
